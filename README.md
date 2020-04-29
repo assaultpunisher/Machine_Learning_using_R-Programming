@@ -9,4 +9,5 @@ Next, you will learn about Linear Regression, which is the most popular machine 
 
 The last it will focus on advanced models of machine learning, including classification models such as logistic regression, KNN and LDA. You will also learn about decision trees and a specialized type of ML model called Support Vector Machines. By the end of this course, you should have a thorough understanding of how to use Machine Learning to create predictive models and solve business problems. So, why wait? Start the course today and build your confidence in creating ML models using R Studio in a few hours!
 
-- https://alison.com/register/referral/09512F6F9A72C5497A93747E0365F661
+
+#### --> https://alison.com/register/referral/09512F6F9A72C5497A93747E0365F661
