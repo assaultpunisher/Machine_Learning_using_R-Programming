@@ -1,4 +1,4 @@
-# MachineLearning using R Programming #
+# Machine Learning using R Programming #
 ### Machine Learning with R studio using R Programming ###
 
 #### The basic ML models such as Linear & Logistic regression and the advanced models such as Decision trees, SVM, XGBOOST, Forests etc. By the end of this course you will be able to confidently build predictive Machine Learning models to solve business problems as well as create business strategy. ####
